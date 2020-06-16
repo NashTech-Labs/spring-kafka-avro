@@ -10,7 +10,7 @@ This repository talks about the Kafka producer and consumer with avro messages.
 * Confluent Kafka
 
 ##### Getting the Project
-https://github.com/deepakmehra10/spring-kafka-avro.git
+https://github.com/knoldus/spring-kafka-avro.git
 
 ##### Command to start the project
 
